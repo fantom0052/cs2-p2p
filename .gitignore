@@ -1,0 +1,17 @@
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Go
+bin/
+coverage.out
+
+# Env files with local overrides
+.env
+*.local.env
+
+# OS
+Thumbs.db
+.DS_Store
